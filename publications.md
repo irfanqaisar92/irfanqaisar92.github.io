@@ -6,8 +6,17 @@ title: Publications
 You can also browse my <a href="https://scholar.google.com/citations?user=KNz5cz4AAAAJ&hl=en">Google Scholar profile</a>.
 
 ---
+<p>
+  <a href="https://www.sciencedirect.com/science/article/pii/S2666720722000194">Energy baseline prediction for buildings: A review</a><br>
+  Irfan Qaisar, Qianchuan Zhao<br>
+  <i>Results in Control and Optimization, 2022</i>
+</p>
 
-<a href="https://www.sciencedirect.com/science/article/pii/S2666720722000194">Energy baseline prediction for buildings: A review</a><br>**Irfan Qaisar**, Qianchuan Zhao<br><i>Results in Control and Optimization, 2022</i>
+<p>
+  <a href="https://www.mdpi.com/2075-5309/13/8/2002">Multi-Sensor-Based Occupancy Prediction in a Multi-Zone Office Building with Transformer</a><br>
+  **Irfan Qaisar**, Kailai Sun, Qianchuan Zhao, Tian Xing, and Hu Yan<br>
+  <i>Buildings 13, no. 8 (2023): 2002</i>
+</p>
 
 [Energy flexibility quantification of a tropical net-zero office building using physically consistent neural network-based model predictive control](https://www.sciencedirect.com/science/article/pii/S2666792424000052)<br>W Liang, H Li, **S Zhan**, A Chong, T Hong<br>*Advances in Applied Energy, 2024*
 
