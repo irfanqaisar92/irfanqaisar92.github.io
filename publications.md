@@ -7,7 +7,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=KNz5cz
 
 ---
 
-<a href="https://www.sciencedirect.com/science/article/pii/S2666720722000194">Energy baseline prediction for buildings: A review</a><br>Irfan Qaisar, Qianchuan Zhao<br><i>Results in Control and Optimization, 2022</i>
+<a href="https://www.sciencedirect.com/science/article/pii/S2666720722000194">Energy baseline prediction for buildings: A review</a><br>**Irfan Qaisar**, Qianchuan Zhao<br><i>Results in Control and Optimization, 2022</i>
 
 [Energy flexibility quantification of a tropical net-zero office building using physically consistent neural network-based model predictive control](https://www.sciencedirect.com/science/article/pii/S2666792424000052)<br>W Liang, H Li, **S Zhan**, A Chong, T Hong<br>*Advances in Applied Energy, 2024*
 
