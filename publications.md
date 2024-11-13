@@ -9,7 +9,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=KNz5cz
 <p>
   <a href="https://www.sciencedirect.com/science/article/pii/S2666720722000194">Energy baseline prediction for buildings: A review</a><br>
   Irfan Qaisar, Qianchuan Zhao<br>
-  <i>Results in Control and Optimization, 2022</i>
+  <i>Results in Control and Optimization 7 (2022): 100129</i>
 </p>
 
 <p>
