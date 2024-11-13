@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Sicheng (IRFAN) QAISAR
+title: (IRFAN) QAISAR
 
 # Your name to show in the footer
 author: Irfan Qaisar
@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar.JPG"
+# avatar: "/assets/img/avatar.JPG"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -49,10 +49,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "szhan@nus.edu.sg"
+  email: "irfan21@mails.tsinghua.edu.cn"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
-  github: jamescheng21
+  github: irfanqaisar92
   # twitter: daattali
   # patreon: DeanAttali
   # youtube: c/daattali
