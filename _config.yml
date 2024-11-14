@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: (IRFAN) QAISAR
+title: IRFAN QAISAR
 
 # Your name to show in the footer
 author: Irfan Qaisar
@@ -22,9 +22,9 @@ author: Irfan Qaisar
 navbar-links:
   About Me: "aboutme"
   Publications: "publications"
-  Talks: "presentations"
-  Services: "services"
-  Resume: "resume"
+   # Talks: "presentations"
+  # Services: "services"
+ # Resume: "resume"
 
 ################
 # --- Logo --- #
