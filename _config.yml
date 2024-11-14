@@ -71,7 +71,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
- # ORCID: 0000-0002-9872-8555
+  ORCID: 0000-0002-4831-977X
   google-scholar: XvWcVvUAAAAJ
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
@@ -247,7 +247,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "Singapore"
+timezone: "beijing"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
