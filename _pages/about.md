@@ -17,9 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a Ph.D. student at Tsinghua University, supervised by Prof. Qianchuan Zhao. My research focuses on occupant-centric control strategies for smart buildings, aiming to optimize energy consumption and enhance indoor environmental quality through advanced machine learning approaches.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My work integrates building energy simulation, data-driven modeling, and real-time sensing systems. I have explored and applied techniques such as deep learning, transformer architectures, and large language models (LLMs) for room occupancy detection, estimation, and prediction. In particular, I have developed LLM-based models that process structured sensor data using natural language prompts to accurately forecast occupancy patterns in real-time.
+
+Building on this foundation, I am now extending my research to integrate LLMs with occupant-centric control strategies for HVAC systems. The goal is to create intelligent, adaptive building environments that reduce energy usage while maintaining occupant comfort.
+
+I have conducted multiple case studies using real-world datasets, contributing to the development of advanced predictive models and control strategies for smart, energy-efficient buildings. My broader academic interests include camera-based occupancy sensing, sensor fusion, and intelligent building automation.
+
+Beyond research, I am dedicated to academic collaboration, mentoring, and sharing knowledge through teaching and international exchange.
+
+You can view my publication record and citation metrics on <a href='https://scholar.google.com/citations?user=KNz5cz4AAAAJ&hl=en'>Google Scholar <strong><span id='total_cit'>[Auto]</span></strong></a>.  
 
 
 # 🔥 News
