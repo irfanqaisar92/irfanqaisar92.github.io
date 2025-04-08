@@ -36,12 +36,23 @@ You can view my publication record and citation metrics on <a href='https://scho
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Results in Control and Optimization, 2022</div>
+      <img src='images/energy_baseline.png' alt="paper image" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[**Energy baseline prediction for buildings: A review**](https://doi.org/10.1016/j.rico.2022.100129)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Irfan Qaisar**, Qianchuan Zhao  
+*Results in Control and Optimization*, Volume 7, 2022, Article 100129  
+This paper presents a comprehensive review of energy baseline prediction approaches in buildings, highlighting data-driven, physical, and hybrid modeling methods.
+
+  </div>
+</div>
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
