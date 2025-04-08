@@ -40,7 +40,7 @@ You can view my publication record and citation metrics on <a href='https://scho
   <div class='paper-box-image'>
     <div>
       <div class="badge">Results in Control and Optimization, 2022</div>
-      <img src='images/energy_baseline.png' alt="paper image" width="100%">
+      <img src='images/baseline.png' alt="paper image" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
