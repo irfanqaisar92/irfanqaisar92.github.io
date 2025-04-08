@@ -27,7 +27,7 @@ I have conducted multiple case studies using real-world datasets, contributing t
 
 Beyond research, I am dedicated to academic collaboration, mentoring, and sharing knowledge through teaching and international exchange.
 
-You can view my publication record and citation metrics on <a href='https://scholar.google.com/citations?user=KNz5cz4AAAAJ&hl=en'>Google Scholar <strong><span id='total_cit'>[Auto]</span></strong></a>.  
+You can view my publication record and citation metrics on <a href='https://scholar.google.com/citations?user=KNz5cz4AAAAJ&hl=en'>Google Scholar <strong><span id='total_cit'></span></strong></a>.  
 
 
 # 🔥 News
