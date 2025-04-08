@@ -54,6 +54,63 @@ This paper presents a comprehensive review of energy baseline prediction approac
   </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Buildings 2023</div>
+      <img src='images/buildings.png' alt="optnet paper" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**Multi-Sensor-Based Occupancy Prediction in a Multi-Zone Office Building with Transformer**](https://doi.org/10.3390/buildings13082002)
+
+**Irfan Qaisar**, Kailai Sun, Qianchuan Zhao, Tian Xing, Hu Yan  
+*Buildings*, Volume 13, 2023, Article 2002  
+This study presents OPTnet, a Transformer-based deep learning model that uses multi-sensor data (occupancy, environmental conditions, and HVAC control) to predict room occupancy in real time. The model outperforms decision trees, LSTM, and MLP across various time horizons, offering a robust solution for occupant-centric building control.
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Building and Environment 2023</div>
+      <img src='images/transformer.png' alt="transformer occ paper" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**Building occupancy number prediction: A Transformer approach**](https://doi.org/10.1016/j.buildenv.2023.110807)
+
+Kailai Sun, **Irfan Qaisar**, Muhammad Arslan Khan, Tian Xing, Qianchuan Zhao  
+*Building and Environment*, Volume 244, 2023, 110807  
+This paper proposes a Transformer-based deep learning model for multi-zone building occupancy number prediction using real-world multi-sensor data. It outperforms traditional ML methods (RF, DT, XGBoost, LSTM) and provides valuable insights for developing occupant-centric control strategies for energy-efficient buildings.
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Building and Environment 2025</div>
+      <img src='images/occ.png' alt="OCC experiment" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**An experimental comparative study of energy saving based on occupancy-centric control in smart buildings**](https://doi.org/10.1016/j.buildenv.2024.112322)
+
+**Irfan Qaisar**, Wei Liang, Kailai Sun, Tian Xing, Qianchuan Zhao  
+*Building and Environment*, Volume 268, 2025, Article 112322  
+This study investigates the real-world performance of occupancy-centric HVAC control in a multi-zone smart building. By leveraging real-time camera-based occupancy data and simulating control strategies with various update intervals (5–60 minutes) using EnergyPlus and OpenStudio, the study demonstrates significant energy savings and improved thermal comfort. The work provides valuable insight into optimizing operational schedules and integrating OCC systems into real buildings.  
+👉 [Dataset link](https://github.com/irfanqaisar92/OCC-in-Buildings)
+
+  </div>
+</div>
+
+
+
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
