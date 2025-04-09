@@ -110,12 +110,12 @@ This study investigates the real-world performance of occupancy-centric HVAC con
   </div>
 </div>
 
-#[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-#- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-#</div>
-#</div>
+%[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>%
 
-#- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+%- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**%
 
 # 🎖 Honors and Awards
 - *2021.09 – Present* Awarded the **Chinese Government Scholarship** — a fully-funded scholarship for Ph.D. studies at Tsinghua University.  
@@ -124,9 +124,18 @@ This study investigates the real-world performance of occupancy-centric HVAC con
 - *2024.12* Received the **Logic Star Award** in the **ESG Innovation Case Analysis Roadshow** for outstanding logical clarity and structured argumentation in presenting an ESG case.  
 - *2021.07* Recognized as part of the **Technical Innovation Team** for *Hack 11: "How AI Can Help Us Build an Intelligent and Sustainable Future?"* during the **Tsinghua Global Summer School 2021 (SDG Hack)**. Contributed to the project *"AI to Track Down and Delete Illegal Contents on the Internet."*
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Education
+- *2021.09 – Present*  
+  **Ph.D. in Control Science & Engineering**  
+  Tsinghua University （清华大学）, Beijing, China  
+
+- *2016.09 – 2019.04*  
+  **M.S. in Control Theory & Control Engineering**  
+  Nanjing University of Science and Technology （南京理工大学）, Nanjing, China  
+
+- *2009.01 – 2013.05*  
+  **B.E. in Electronic Engineering**  
+  Dawood University of Engineering and Technology, Karachi, Pakistan
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
