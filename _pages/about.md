@@ -137,6 +137,42 @@ This study investigates the real-world performance of occupancy-centric HVAC con
   **B.E. in Electronic Engineering**  
   Dawood University of Engineering and Technology, Karachi, Pakistan
 
+# 💼 Work Experience
+
+### Research Assistant  
+**Center for Intelligent and Networked Systems (CFINS), Department of Automation, Tsinghua University** — *Beijing, China*  
+*09/2021 – Present*  
+- Conducting research on occupant-centric control strategies for smart buildings using machine learning and real-time sensor data.  
+- Developing predictive models using Transformers and LLMs for energy-efficient HVAC control.  
+- Collaborating on interdisciplinary projects related to building automation, sustainability, and AI applications.  
+- Assisting with data analysis, academic writing, and publication preparation under the supervision of Prof. Qianchuan Zhao.
+
+---
+
+### Electrical Engineer  
+**Wuxi Qiaoniwell Railway Equipment Technology Co., Ltd.** — *Wuxi, China*  
+*06/2019 – 07/2021*  
+- Programmed and commissioned PLCs, HMIs, VFDs, and industrial automation devices (e.g., sensors and actuators).  
+- Diagnosed and troubleshot PLC systems and process instruments.  
+- Collaborated across departments to identify workflow automation opportunities.  
+- Gathered requirements from clients and end-users to design optimal automation solutions.
+
+---
+
+### Management Trainee  
+**Design Line Architects** — *Multan, Pakistan*  
+*06/2014 – 06/2016*  
+- Managed responsibilities in both IT and project management departments.  
+- Supported administrative and operational functions to improve efficiency.
+
+---
+
+### Trainee Engineer  
+**Niagara Textile (Pvt) Ltd.** — *Pakistan*  
+*05/2013 – 05/2014*  
+- Repaired and maintained electronic control cards.  
+- Designed and troubleshot electrical panels for manufacturing processes.
+
 # 📞 Contact
 E-mail:  
 <a href="irfan21@mails.tsinghua.edu.cn">irfan21@mails.tsinghua.edu.cn</a>  
