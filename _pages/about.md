@@ -150,7 +150,7 @@ This study investigates the real-world performance of occupancy-centric HVAC con
 ---
 
 ### Electrical Engineer  
-**Wuxi Qiaoniwell Railway Equipment Technology Co., Ltd.** — *Wuxi, China*  
+**Wuxi Johnnywell Railway Equipment Technology Co., Ltd.** — *Wuxi, China*  
 *06/2019 – 07/2021*  
 - Programmed and commissioned PLCs, HMIs, VFDs, and industrial automation devices (e.g., sensors and actuators).  
 - Diagnosed and troubleshot PLC systems and process instruments.  
