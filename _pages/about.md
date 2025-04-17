@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-He is a Ph.D. student at Tsinghua University, supervised by Prof. Qianchuan Zhao. His research focuses on occupant-centric control strategies for smart buildings, combining energy simulation, real-time sensing, and machine learning techniques. He has developed Transformer- and LLM-based models for room occupancy detection, estimation, and HVAC control, with the goal of enhancing energy efficiency and indoor comfort. His broader interests include sensor fusion, intelligent automation, and sustainable building technologies.
+He is a Ph.D. candidate at Tsinghua University, supervised by Prof. Qianchuan Zhao. His research focuses on occupant-centric control strategies for smart buildings, combining energy simulation, real-time sensing, and machine learning techniques. He has developed Transformer- and LLM-based models for room occupancy detection, estimation, and HVAC control, with the goal of enhancing energy efficiency and indoor comfort. His broader interests include sensor fusion, intelligent automation, and sustainable building technologies.
 
 View his publications and citation metrics on <a href='https://scholar.google.com/citations?user=KNz5cz4AAAAJ&hl=en'>Google Scholar <strong><span id='total_cit'></span></strong></a>. 
 
