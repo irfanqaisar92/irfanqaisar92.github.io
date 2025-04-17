@@ -117,6 +117,16 @@ This study investigates the real-world performance of occupancy-centric HVAC con
   </div>
   <div class='paper-box-text' markdown="1">
 
+[**Event-triggered H∞ consensus control for multi-agent systems under time-varying delay**](#)
+
+**Irfan Qaisar**, Muhammad Shamrooz Aslam, Chuan Zhou  
+*Control Engineering and Applied Informatics*, Vol. 22, No. 3, 2020, pp. 25–32  
+
+This paper presents an event-triggered control strategy for multi-agent systems with directed communication topologies and time-varying delays. A new Lyapunov-based approach with linear matrix inequalities (LMIs) ensures H∞ consensus performance while reducing communication load. Simulation results confirm the effectiveness of the proposed method in achieving stability and reducing data transmissions.
+
+  </div>
+</div>
+
 [**Adaptive event-triggered robust H∞ control for Takagi–Sugeno fuzzy networked Markov jump systems with time-varying delay**](https://doi.org/10.1002/asjc.2762)
 
 Muhammad Shamrooz Aslam, **Irfan Qaisar**, Abdul Majid, Summera Shamrooz  
@@ -153,15 +163,6 @@ This work proposes a robust H∞ controller for Takagi–Sugeno fuzzy networked 
   </div>
   <div class='paper-box-text' markdown="1">
 
-[**Event-triggered H∞ consensus control for multi-agent systems under time-varying delay**](#)
-
-**Irfan Qaisar**, Muhammad Shamrooz Aslam, Chuan Zhou  
-*Control Engineering and Applied Informatics*, Vol. 22, No. 3, 2020, pp. 25–32  
-
-This paper presents an event-triggered control strategy for multi-agent systems with directed communication topologies and time-varying delays. A new Lyapunov-based approach with linear matrix inequalities (LMIs) ensures H∞ consensus performance while reducing communication load. Simulation results confirm the effectiveness of the proposed method in achieving stability and reducing data transmissions.
-
-  </div>
-</div>
 
 **Conference Papers**
 
