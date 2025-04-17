@@ -111,8 +111,8 @@ This study investigates the real-world performance of occupancy-centric HVAC con
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Asian Journal of Control 2022</div>
-      <img src='images/fuzzy_control.png' alt="fuzzy control" width="100%">
+      <div class="badge">CEAI 2020</div>
+      <img src='images/exponential.png' alt="OCC experiment" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -127,11 +127,11 @@ This paper presents an event-triggered control strategy for multi-agent systems 
   </div>
 </div>
 
-<div class='paper-box'>
+  <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">CEAI 2020</div>
-      <img src='images/exponential.png' alt="OCC experiment" width="100%">
+      <div class="badge">Asian Journal of Control 2022</div>
+      <img src='images/fuzzy.png' alt="fuzzy control" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -149,7 +149,7 @@ This paper proposes an adaptive event-triggered robust H∞ controller for Takag
   <div class='paper-box-image'>
     <div>
       <div class="badge">NAHS 2020</div>
-      <img src='images/fuzzy.png' alt="quantized fuzzy system" width="100%">
+      <img src='images/quantized.png' alt="quantized fuzzy system" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -163,27 +163,7 @@ This work proposes a robust H∞ controller for Takagi–Sugeno fuzzy networked 
   </div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">CEAI 2020</div>
-      <img src='images/quantized.png' alt="event delay consensus" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-
 **Conference Papers**
-
-
-[**Exponential Stability for Event-triggered Consensus Control of Heterogeneous Multi-Agent Systems**](#)  
-**Irfan Qaisar**, Chuan Zhou, Zhengqing Shi, Wei Xu, Peng Xu  
-*31st Chinese Control and Decision Conference (CCDC), 2019*  
-
-This paper addresses the consensus control problem for heterogeneous multi-agent systems using dual event-triggered schemes. It proposes a novel exponential stability criterion based on Lyapunov methods and linear matrix inequalities (LMIs). Simulation results validate the effectiveness of the proposed approach in reducing communication overhead while maintaining stability.
-  
-  </div>
-</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -193,6 +173,15 @@ This paper addresses the consensus control problem for heterogeneous multi-agent
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
+
+[**Exponential Stability for Event-triggered Consensus Control of Heterogeneous Multi-Agent Systems**](#)  
+**Irfan Qaisar**, Chuan Zhou, Zhengqing Shi, Wei Xu, Peng Xu  
+*31st Chinese Control and Decision Conference (CCDC), 2019*  
+
+This paper addresses the consensus control problem for heterogeneous multi-agent systems using dual event-triggered schemes. It proposes a novel exponential stability criterion based on Lyapunov methods and linear matrix inequalities (LMIs). Simulation results validate the effectiveness of the proposed approach in reducing communication overhead while maintaining stability.
+  
+  </div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.09 – Present* Awarded the **Chinese Government Scholarship** — a fully-funded scholarship for Ph.D. studies at Tsinghua University.  
