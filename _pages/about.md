@@ -108,6 +108,81 @@ This study investigates the real-world performance of occupancy-centric HVAC con
 </div>
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Asian Journal of Control 2022</div>
+      <img src='images/fuzzy_control.png' alt="fuzzy control" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**Adaptive event-triggered robust H∞ control for Takagi–Sugeno fuzzy networked Markov jump systems with time-varying delay**](https://doi.org/10.1002/asjc.2762)
+
+Muhammad Shamrooz Aslam, **Irfan Qaisar**, Abdul Majid, Summera Shamrooz  
+*Asian Journal of Control*, 2022, Volume 25, Issue 1, pp. 213–228  
+This paper proposes an adaptive event-triggered robust H∞ controller for Takagi–Sugeno fuzzy Markov jump systems with time-varying delays. A novel stochastic Lyapunov–Krasovskii functional and a delay decomposition method are introduced to improve control performance while reducing communication costs. A truck-trailer application validates the proposed design.
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">NAHS 2020</div>
+      <img src='images/event_quantized.png' alt="quantized fuzzy system" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**Quantized event-triggered feedback control under fuzzy systems with time-varying delay and actuator fault**](https://doi.org/10.1016/j.nahs.2019.100823)
+
+Muhammad Shamrooz Aslam, **Irfan Qaisar**, Muhammad Ahsan Saleem  
+*Nonlinear Analysis: Hybrid Systems*, Volume 35, 2020, 100823  
+This work proposes a robust H∞ controller for Takagi–Sugeno fuzzy networked control systems with actuator faults and time-varying delays. A co-designed quantization and event-triggered mechanism significantly reduces communication load while ensuring system stability. Simulation on a truck-trailer system validates the approach.
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CEAI 2020</div>
+      <img src='images/event_delay_consensus.png' alt="event delay consensus" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**Event-triggered H∞ consensus control for multi-agent systems under time-varying delay**](#)
+
+**Irfan Qaisar**, Muhammad Shamrooz Aslam, Chuan Zhou  
+*Control Engineering and Applied Informatics*, Vol. 22, No. 3, 2020, pp. 25–32  
+
+This paper presents an event-triggered control strategy for multi-agent systems with directed communication topologies and time-varying delays. A new Lyapunov-based approach with linear matrix inequalities (LMIs) ensures H∞ consensus performance while reducing communication load. Simulation results confirm the effectiveness of the proposed method in achieving stability and reducing data transmissions.
+
+  </div>
+</div>
+
+**Conference Papers**
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CCDC 2019</div>
+      <img src='images/multi_agent_consensus.png' alt="multi-agent" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**Exponential Stability for Event-triggered Consensus Control of Heterogeneous Multi-Agent Systems**](#)  
+**Irfan Qaisar**, Chuan Zhou, Zhengqing Shi, Wei Xu, Peng Xu  
+*31st Chinese Control and Decision Conference (CCDC), 2019*  
+
+This paper addresses the consensus control problem for heterogeneous multi-agent systems using dual event-triggered schemes. It proposes a novel exponential stability criterion based on Lyapunov methods and linear matrix inequalities (LMIs). Simulation results validate the effectiveness of the proposed approach in reducing communication overhead while maintaining stability.
+  
+  </div>
+</div>
+
 # 🎖 Honors and Awards
 - *2021.09 – Present* Awarded the **Chinese Government Scholarship** — a fully-funded scholarship for Ph.D. studies at Tsinghua University.  
 - *2016.09 – 2019.04* Awarded the **Nanjing Municipal Government Scholarship** — a fully-funded scholarship for postgraduate studies at Nanjing University of Science and Technology.  
