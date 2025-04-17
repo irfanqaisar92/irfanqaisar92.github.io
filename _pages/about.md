@@ -127,6 +127,15 @@ This paper presents an event-triggered control strategy for multi-agent systems 
   </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CEAI 2020</div>
+      <img src='images/exponential.png' alt="OCC experiment" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
 [**Adaptive event-triggered robust H∞ control for Takagi–Sugeno fuzzy networked Markov jump systems with time-varying delay**](https://doi.org/10.1002/asjc.2762)
 
 Muhammad Shamrooz Aslam, **Irfan Qaisar**, Abdul Majid, Summera Shamrooz  
@@ -140,7 +149,7 @@ This paper proposes an adaptive event-triggered robust H∞ controller for Takag
   <div class='paper-box-image'>
     <div>
       <div class="badge">NAHS 2020</div>
-      <img src='images/event_quantized.png' alt="quantized fuzzy system" width="100%">
+      <img src='images/fuzzy.png' alt="quantized fuzzy system" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -158,7 +167,7 @@ This work proposes a robust H∞ controller for Takagi–Sugeno fuzzy networked 
   <div class='paper-box-image'>
     <div>
       <div class="badge">CEAI 2020</div>
-      <img src='images/event_delay_consensus.png' alt="event delay consensus" width="100%">
+      <img src='images/quantized.png' alt="event delay consensus" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -166,14 +175,6 @@ This work proposes a robust H∞ controller for Takagi–Sugeno fuzzy networked 
 
 **Conference Papers**
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">CCDC 2019</div>
-      <img src='images/multi_agent_consensus.png' alt="multi-agent" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
 
 [**Exponential Stability for Event-triggered Consensus Control of Heterogeneous Multi-Agent Systems**](#)  
 **Irfan Qaisar**, Chuan Zhou, Zhengqing Shi, Wei Xu, Peng Xu  
@@ -183,6 +184,15 @@ This paper addresses the consensus control problem for heterogeneous multi-agent
   
   </div>
 </div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CCDC 2019</div>
+      <img src='images/ccdc.png' alt="multi-agent" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 # 🎖 Honors and Awards
 - *2021.09 – Present* Awarded the **Chinese Government Scholarship** — a fully-funded scholarship for Ph.D. studies at Tsinghua University.  
