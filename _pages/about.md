@@ -27,6 +27,16 @@ View his publications and citation metrics on <a href='https://scholar.google.co
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📝 Publications 
+
+**Under Review Publications**
+
+- **Exploring Large Language Models for Indoor Occupancy Detection and Estimation for Smart Buildings**  
+  **Irfan Qaisar**, Kailai Sun, Qianchuan Zhao
+
+- **Dynamic Occupancy Measurement for Smart Buildings: A Few-shot Large Language Model Approach**  
+  **Irfan Qaisar**, Kailai Sun, Ziyou Zhang, Qianchuan Zhao
+
+
 **Journal Papers**
 
 <div class='paper-box'>
