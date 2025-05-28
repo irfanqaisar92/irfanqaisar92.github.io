@@ -193,6 +193,14 @@ This paper addresses the consensus control problem for heterogeneous multi-agent
   </div>
 </div>
 
+## 📝 Reviewer
+
+**Journals Reviewed:**   
+- *Building and Environment*  
+- *Sustainable and Clean Buildings*  
+- *Scientific Data*
+- *Results in Control and Optimization*
+
 # 🎖 Honors and Awards
 - *2021.09 – Present* Awarded the **Chinese Government Scholarship** — a fully-funded scholarship for Ph.D. studies at Tsinghua University.  
 - *2016.09 – 2019.04* Awarded the **Nanjing Municipal Government Scholarship** — a fully-funded scholarship for postgraduate studies at Nanjing University of Science and Technology.  
