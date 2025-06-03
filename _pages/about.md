@@ -196,7 +196,8 @@ This paper addresses the consensus control problem for heterogeneous multi-agent
 ## 📝 Reviewer
 
 **Journals Reviewed:**   
-- *Building and Environment*  
+- *Building and Environment*
+- *Energy & Buildings* 
 - *Sustainable and Clean Buildings*  
 - *Scientific Data*
 - *Results in Control and Optimization*
@@ -214,7 +215,7 @@ This paper addresses the consensus control problem for heterogeneous multi-agent
   **Ph.D. in Control Science & Engineering**  
   Tsinghua University （清华大学）, Beijing, China  
 
-- *2016.09 – 2019.04*  
+<!-- - *2016.09 – 2019.04*  
   **M.S. in Control Theory & Control Engineering**  
   Nanjing University of Science and Technology （南京理工大学）, Nanjing, China  
 
@@ -256,7 +257,7 @@ This paper addresses the consensus control problem for heterogeneous multi-agent
 **Niagara Textile (Pvt) Ltd.** — *Pakistan*  
 *05/2013 – 05/2014*  
 - Repaired and maintained electronic control cards.  
-- Designed and troubleshot electrical panels for manufacturing processes.
+- Designed and troubleshot electrical panels for manufacturing processes.-->
 
 # 📞 Contact
 E-mail:  
