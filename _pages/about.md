@@ -23,11 +23,8 @@ View his publications and citation metrics on <a href='https://scholar.google.co
 
 
 # 🔥 News
-- **2025.05.29:** 🎉🎉 Our paper (**First Author**) is accepted: *Dynamic Occupancy Measurement for Smart Buildings: A Few-shot Large Language Model Approach.*  
-  **Irfan Qaisar**, Kailai Sun, and Qianchuan Zhao.  
-  [_2025 IEEE 21st International Conference on Automation Science and Engineering_](https://ieeexplore.ieee.org/xpl/conhome/1001297/all-proceedings) (**CASE**).
+- **2025.05.29:** 🎉🎉 Our paper (**First Author**) is accepted: *Dynamic Occupancy Measurement for Smart Buildings: A Few-shot Large Language Model Approach.* **Irfan Qaisar**, Kailai Sun, and Qianchuan Zhao. [_2025 IEEE 21st International Conference on Automation Science and Engineering_](https://ieeexplore.ieee.org/xpl/conhome/1001297/all-proceedings) (**CASE**).
 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 📝 Publications 
 
@@ -35,9 +32,6 @@ View his publications and citation metrics on <a href='https://scholar.google.co
 
 - **Exploring Large Language Models for Indoor Occupancy Detection and Estimation for Smart Buildings**  
   **Irfan Qaisar**, Kailai Sun, Qianchuan Zhao
-
-- **Dynamic Occupancy Measurement for Smart Buildings: A Few-shot Large Language Model Approach**  
-  **Irfan Qaisar**, Kailai Sun, Ziyou Zhang, Qianchuan Zhao
 
 
 **Journal Papers**
