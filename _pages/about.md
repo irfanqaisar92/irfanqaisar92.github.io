@@ -231,9 +231,7 @@ This paper addresses the consensus control problem for heterogeneous multi-agent
 - Assisting with data analysis, academic writing, and publication preparation under the supervision of Prof. Qianchuan Zhao.
 
 ---
-### Trainee Engineer **Niagara Textile (Pvt) Ltd.** — *Pakistan*  *05/2013 – 05/2014*
-
-<!--### Electrical Engineer  
+### Electrical Engineer  
 **Wuxi Johnnywell Railway Equipment Technology Co., Ltd.** — *Wuxi, China*  
 *06/2019 – 07/2021*  
 - Programmed and commissioned PLCs, HMIs, VFDs, and industrial automation devices (e.g., sensors and actuators).  
@@ -255,7 +253,7 @@ This paper addresses the consensus control problem for heterogeneous multi-agent
 **Niagara Textile (Pvt) Ltd.** — *Pakistan*  
 *05/2013 – 05/2014*  
 - Repaired and maintained electronic control cards.  
-- Designed and troubleshot electrical panels for manufacturing processes.-->
+- Designed and troubleshot electrical panels for manufacturing processes.
 
 # 📞 Contact
 E-mail:  
