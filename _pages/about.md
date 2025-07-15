@@ -24,8 +24,7 @@ View his publications and citation metrics on <a href='https://scholar.google.co
 
 # 🔥 News
 - **2025.05.29:** 🎉🎉 Our paper (**First Author**) is accepted: *Dynamic Occupancy Measurement for Smart Buildings: A Few-shot Large Language Model Approach.* **Irfan Qaisar**, Kailai Sun, and Qianchuan Zhao. [_2025 IEEE 21st International Conference on Automation Science and Engineering_](https://ieeexplore.ieee.org/xpl/conhome/1001297/all-proceedings) (**CASE**).
-- **2025.06.26:** 🎉🎉 My article has been accepted for publication in the **Global Youth Roundtable** column: *"AGI & My Career Future: Personal Reflection Guide."*  
-After a rigorous editorial review, my personal perspective on AI and career preparedness was selected as a valuable contribution to this international dialogue on the future of work.
+- **2025.06.26:** 🎉🎉 My article has been accepted for publication in the **Global Youth Roundtable** column: *"AGI & My Career Future: Personal Reflection Guide."* 
 
 # 📝 Publications 
 
@@ -232,8 +231,9 @@ This paper addresses the consensus control problem for heterogeneous multi-agent
 - Assisting with data analysis, academic writing, and publication preparation under the supervision of Prof. Qianchuan Zhao.
 
 ---
+### Trainee Engineer **Niagara Textile (Pvt) Ltd.** — *Pakistan*  *05/2013 – 05/2014*
 
-### Electrical Engineer  
+<!--### Electrical Engineer  
 **Wuxi Johnnywell Railway Equipment Technology Co., Ltd.** — *Wuxi, China*  
 *06/2019 – 07/2021*  
 - Programmed and commissioned PLCs, HMIs, VFDs, and industrial automation devices (e.g., sensors and actuators).  
@@ -255,7 +255,7 @@ This paper addresses the consensus control problem for heterogeneous multi-agent
 **Niagara Textile (Pvt) Ltd.** — *Pakistan*  
 *05/2013 – 05/2014*  
 - Repaired and maintained electronic control cards.  
-- Designed and troubleshot electrical panels for manufacturing processes.
+- Designed and troubleshot electrical panels for manufacturing processes.-->
 
 # 📞 Contact
 E-mail:  
