@@ -184,7 +184,7 @@ This work proposes a robust H∞ controller for Takagi–Sugeno fuzzy networked 
 *Irfan Qaisar, Kailai Sun, Qianchuan Zhao*  
 *2025 IEEE CASE, Los Angeles, USA*  
 
-This paper presents an LLM-based framework for occupancy detection and estimation in smart buildings. Leveraging few-shot and in-context learning, LLMs (LLaMA 3.2, Gemini-Pro, DeepSeek-R1) outperform traditional models, achieving up to 95.8% accuracy and enabling 10–30% HVAC energy savings with improved comfort.
+This paper presents an LLM-based framework for occupancy detection and estimation in smart buildings. Leveraging few-shot and in-context learning, LLMs (LLaMA 3.2, Gemini-Pro, DeepSeek-R1) outperform traditional models, achieving up to 95.8% accuracy.
   
   </div>
 </div>
