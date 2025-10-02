@@ -175,16 +175,16 @@ This work proposes a robust H∞ controller for Takagi–Sugeno fuzzy networked 
   <div class='paper-box-image'>
     <div>
       <div class="badge">CCDC 2019</div>
-      <img src='images/ccdc.png' alt="multi-agent" width="100%">
+      <img src='images/Methodcp.jpg' alt="multi-agent" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-[**Exponential Stability for Event-triggered Consensus Control of Heterogeneous Multi-Agent Systems**](#)  
-**Irfan Qaisar**, Chuan Zhou, Zhengqing Shi, Wei Xu, Peng Xu  
-*31st Chinese Control and Decision Conference (CCDC), 2019*  
+***[Dynamic Occupancy Measurement for Smart Buildings: A Few-shot Large Language Model Approach](https://ieeexplore.ieee.org/abstract/document/11163957)**  
+*Irfan Qaisar, Kailai Sun, Qianchuan Zhao*  
+*2025 IEEE CASE, Los Angeles, USA*  
 
-This paper addresses the consensus control problem for heterogeneous multi-agent systems using dual event-triggered schemes. It proposes a novel exponential stability criterion based on Lyapunov methods and linear matrix inequalities (LMIs). Simulation results validate the effectiveness of the proposed approach in reducing communication overhead while maintaining stability.
+This paper presents an LLM-based framework for occupancy detection and estimation in smart buildings. Leveraging few-shot and in-context learning, LLMs (LLaMA 3.2, Gemini-Pro, DeepSeek-R1) outperform traditional models, achieving up to 95.8% accuracy and enabling 10–30% HVAC energy savings with improved comfort.
   
   </div>
 </div>
