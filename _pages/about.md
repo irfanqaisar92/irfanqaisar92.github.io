@@ -174,7 +174,7 @@ This work proposes a robust H∞ controller for Takagi–Sugeno fuzzy networked 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">CCDC 2019</div>
+      <div class="badge">CASE 2025</div>
       <img src='images/Methodcp.jpg' alt="multi-agent" width="100%">
     </div>
   </div>
