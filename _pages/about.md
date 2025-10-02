@@ -23,7 +23,6 @@ View his publications and citation metrics on <a href='https://scholar.google.co
 
 
 # 🔥 News
-- **2025.05.29:** 🎉🎉 Our paper (**First Author**) is accepted: *Dynamic Occupancy Measurement for Smart Buildings: A Few-shot Large Language Model Approach.* **Irfan Qaisar**, Kailai Sun, and Qianchuan Zhao. [_2025 IEEE 21st International Conference on Automation Science and Engineering_](https://ieeexplore.ieee.org/xpl/conhome/1001297/all-proceedings) (**CASE**).
 - **2025.06.26:** 🎉🎉 My article has been accepted for publication in the **Global Youth Roundtable** column: *"AGI & My Career Future: Personal Reflection Guide."* 
 
 # 📝 Publications 
@@ -171,6 +170,24 @@ This work proposes a robust H∞ controller for Takagi–Sugeno fuzzy networked 
 </div>
 
 **Conference Papers**
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CCDC 2019</div>
+      <img src='images/ccdc.png' alt="multi-agent" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**Exponential Stability for Event-triggered Consensus Control of Heterogeneous Multi-Agent Systems**](#)  
+**Irfan Qaisar**, Chuan Zhou, Zhengqing Shi, Wei Xu, Peng Xu  
+*31st Chinese Control and Decision Conference (CCDC), 2019*  
+
+This paper addresses the consensus control problem for heterogeneous multi-agent systems using dual event-triggered schemes. It proposes a novel exponential stability criterion based on Lyapunov methods and linear matrix inequalities (LMIs). Simulation results validate the effectiveness of the proposed approach in reducing communication overhead while maintaining stability.
+  
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
