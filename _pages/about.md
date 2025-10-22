@@ -217,11 +217,12 @@ This paper addresses the consensus control problem for heterogeneous multi-agent
 - *Results in Control and Optimization*
 
 # 🎖 Honors and Awards
+- *2025.10* Awarded the **Tsinghua University Comprehensive Excellence Scholarship (Second Class)** for outstanding academic performance and moral conduct.
+- *2024.12* Awarded the **Tsinghua University Comprehensive Excellence Scholarship (Second Class)** for outstanding academic performance and moral conduct.   
+- *2024.12* Designated as a **Tsinghua-Nike Sustainability Ambassador** after completing the Tsinghua-Nike Sustainability Fellowship, in recognition of contributions to sustainable development.
+- *2024.12* Received the **Logic Star Award** in the **ESG Innovation Case Analysis Roadshow** for outstanding logical clarity and structured argumentation in presenting an ESG case.
 - *2021.09 – Present* Awarded the **Chinese Government Scholarship** — a fully-funded scholarship for Ph.D. studies at Tsinghua University.  
 - *2016.09 – 2019.04* Awarded the **Nanjing Municipal Government Scholarship** — a fully-funded scholarship for postgraduate studies at Nanjing University of Science and Technology.  
-- *2024.12* Awarded the **Tsinghua University Comprehensive Excellence Scholarship (Second Class)** for outstanding academic performance and moral conduct.  
-- *2024.12* Designated as a **Tsinghua-Nike Sustainability Ambassador** after completing the Tsinghua-Nike Sustainability Fellowship, in recognition of contributions to sustainable development.  
-- *2024.12* Received the **Logic Star Award** in the **ESG Innovation Case Analysis Roadshow** for outstanding logical clarity and structured argumentation in presenting an ESG case.  
 - *2021.07* Recognized as part of the **Technical Innovation Team** for *Hack 11: "How AI Can Help Us Build an Intelligent and Sustainable Future?"* during the **Tsinghua Global Summer School 2021 (SDG Hack)**. Contributed to the project *"AI to Track Down and Delete Illegal Contents on the Internet."*
 
 # 📖 Education
