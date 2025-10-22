@@ -23,7 +23,8 @@ View his publications and citation metrics on <a href='https://scholar.google.co
 
 
 # 🔥 News
-- **2025.06.26:** 🎉🎉 My article has been accepted for publication in the **Global Youth Roundtable** column: *"AGI & My Career Future: Personal Reflection Guide."* 
+- **2025.06.26:** 🎉🎉 My article has been accepted for publication in the **Global Youth Roundtable** column: *"AGI & My Career Future: Personal Reflection Guide."*
+- **2025.10:** 🏅 Honored to receive the Tsinghua University Comprehensive Excellence Scholarship (Second Class) for my outstanding academic performance and moral conduct! 🎉 
 
 # 📝 Publications 
 
