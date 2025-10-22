@@ -108,6 +108,25 @@ This study investigates the real-world performance of occupancy-centric HVAC con
   </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Building and Environment 2026</div>
+      <img src='images/MethodBAE.png' alt="LLM for Occupancy measurement" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**Exploring large language models for indoor occupancy measurement in smart office buildings**](https://doi.org/10.1016/j.buildenv.2025.113860)
+
+**Irfan Qaisar**, Kailai Sun, Qianchuan Zhao  
+*Building and Environment*, Volume 287, 2026, Article 113860  
+This study introduces an LLM-based framework for real-time indoor occupancy measurement using few-shot, chain-of-thought, and in-context learning, enabling accurate and data-efficient occupant-centric control. Experimental results from two real-world office datasets show that LLMs, particularly DeepSeek-R1 and Gemini-Pro, outperform traditional models in both binary detection and multi-level estimation while enhancing energy efficiency and comfort in EnergyPlus simulations.  
+👉 [Dataset link](https://github.com/kailaisun/LLM-occupancy)
+
+  </div>
+</div>
+
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
