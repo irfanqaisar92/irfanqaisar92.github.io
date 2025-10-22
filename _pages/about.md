@@ -29,8 +29,8 @@ View his publications and citation metrics on <a href='https://scholar.google.co
 
 **Under Review Publications**
 
-- **Exploring Large Language Models for Indoor Occupancy Detection and Estimation for Smart Buildings**  
-  **Irfan Qaisar**, Kailai Sun, Qianchuan Zhao
+- **OCC-Mamba: A Mamba-based deep learning approach for indoor occupancy prediction**  
+  **Irfan Qaisar**, Kailai Sun, Dianyu Zhong, Xu Yang, Xi Miao, and Qianchuan Zhao
 
 
 **Journal Papers**
