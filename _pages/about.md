@@ -112,7 +112,7 @@ This study investigates the real-world performance of occupancy-centric HVAC con
   <div class='paper-box-image'>
     <div>
       <div class="badge">Building and Environment 2026</div>
-      <img src='images/MethodBAE.png' alt="LLM for Occupancy measurement" width="100%">
+      <img src='images/MethodBAE.jpg' alt="LLM for Occupancy measurement" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
