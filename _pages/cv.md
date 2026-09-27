@@ -38,16 +38,8 @@ Dawood University of Engineering and Technology, Karachi, Pakistan
 
 ## Download Full CV
 
-## Download Full CV
-
 <a href="/files/Irfan_Qaisar_PhD_CV.pdf">
   <strong>📄 View / Download My Full CV</strong>
-</a>
-
-You can also view my complete publication record on [Google Scholar](https://scholar.google.com/citations?user=KNz5cz4AAAAJ&hl=en).
-
-<a href="/files/Irfan_Qaisar_CV.pdf" target="_blank">
-<strong>📄 View / Download My Full CV</strong>
 </a>
 
 You can also view my complete publication record on [Google Scholar](https://scholar.google.com/citations?user=KNz5cz4AAAAJ&hl=en).
