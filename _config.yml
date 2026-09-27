@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "IRFAN QAISAR"
-description              : "Ph.D. student at Tsinghua University (THU), focusing on energy-efficient systems and occupant-centric control strategies for smart buildings."
+description              : "Ph.D. in Control Science and Engineering from Tsinghua University. Research focused on AI for smart and sustainable built environments, occupancy sensing and prediction, large language models, agentic AI, multimodal intelligence, building energy management, and occupant-centric HVAC control."
 repository               : "irfanqaisar92.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,42 +21,18 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "IRFAN QAISAR"
-  avatar           : "images/profile.jpg"
-  bio              : "Tsinghua University"
-  location         : "Beijing, China"
+  name             : "Dr. Irfan Qaisar"
+  avatar           : "/images/profile.jpg"
+  bio              : "Ph.D. in Control Science & Engineering | AI for Smart & Sustainable Built Environments"
+  location         :
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=KNz5cz4AAAAJ&hl=en"
-  email            : "irfan21@mails.tsinghua.edu.cn"
+  email            : "irfanqaisar92@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Irfan-Qaisar-2?ev=hdr_xprf"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "irfanqaisar92"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "https://www.linkedin.com/in/irfan-qaisar-a87951371/"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  linkedin         : "irfan-qaisar-a87951371"
   orcid            : "https://orcid.org/0000-0002-4831-977X"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 
 # Reading Files
