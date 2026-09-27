@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -17,290 +17,252 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-He is a Ph.D. candidate at Tsinghua University, supervised by Prof. Qianchuan Zhao. His research focuses on occupant-centric control strategies for smart buildings, combining energy simulation, real-time sensing, and machine learning techniques. He has developed Transformer- and LLM-based models for room occupancy detection, estimation, and HVAC control, with the goal of enhancing energy efficiency and indoor comfort. His broader interests include sensor fusion, intelligent automation, and sustainable building technologies.
+Irfan Qaisar received his Ph.D. in Control Science and Engineering from Tsinghua University, Beijing, China, in October 2026. His research focuses on artificial intelligence for smart and sustainable built environments, with particular interests in occupant sensing and behavior modeling, occupancy forecasting, multimodal AI, large language models and agentic AI, occupant-centric HVAC control, building energy management, and data-driven environmental modeling.
 
-View his publications and citation metrics on <a href='https://scholar.google.com/citations?user=KNz5cz4AAAAJ&hl=en'>Google Scholar <strong><span id='total_cit'></span></strong></a>. 
+His work integrates machine learning, deep learning, computer vision, large language models, building simulation, and intelligent control to develop energy-efficient, human-centered, and autonomous building systems.
+
+View his complete publication record and citation metrics on <a href='https://scholar.google.com/citations?user=KNz5cz4AAAAJ&hl=en'>Google Scholar <strong><span id='total_cit'></span></strong></a>.
 
 
 # 🔥 News
-- **2025.06.26:** 🎉🎉 My article has been accepted for publication in the **Global Youth Roundtable** column: *"AGI & My Career Future: Personal Reflection Guide."*
-- **2025.10.22:** 🏅 Honored to receive the Tsinghua University Comprehensive Excellence Scholarship (Second Class) for my outstanding academic performance and moral conduct! 🎉 
 
-# 📝 Publications 
+- **2026.10:** 🎓 Completed Ph.D. in **Control Science & Engineering** at **Tsinghua University**.
+- **2026.09:** 🎉 Our article, *“Experimental study on surveillance video-based indoor occupancy measurement for occupant-centric control,”* was published in **Building and Environment**.
+- **2026:** 🎉 Our article, *“OCC-Mamba: A Mamba-based deep learning approach for indoor occupancy prediction,”* was published in **Building and Environment**.
+- **2026:** 🎉 Our article, *“Exploring large language models for indoor occupancy measurement in smart office buildings,”* was published in **Building and Environment**.
+- **2025:** 🎉 Presented *“Dynamic Occupancy Measurement for Smart Buildings: A Few-shot Large Language Model Approach”* at **IEEE CASE 2025**, Los Angeles, USA.
+- **2026:** 🏅 Awarded the **Tsinghua University Comprehensive Excellence Scholarship (Second Class)**.
+- **2026:** 🎖 Awarded the **Belt and Road Ambassador Scholarship** by the Overseas Chinese Charity Foundation of China.
 
-**Under Review Publications**
 
-- **OCC-Mamba: A Mamba-based deep learning approach for indoor occupancy prediction**  
-  **Irfan Qaisar**, Kailai Sun, Dianyu Zhong, Xu Yang, Xi Miao, and Qianchuan Zhao
+# 📝 Publications
+
+## Selected Publications
+
+### 1. OCC-Mamba: A Mamba-based deep learning approach for indoor occupancy prediction
+
+[**OCC-Mamba: A Mamba-based deep learning approach for indoor occupancy prediction**](https://doi.org/10.1016/j.buildenv.2025.114085)
+
+**Irfan Qaisar**, Kailai Sun, Dianyu Zhong, Xu Yang, Xi Miao, Qianchuan Zhao  
+*Building and Environment*, Volume 289, 2026, Article 114085
+
+This study proposes OCC-Mamba, a state-space deep learning model for indoor occupancy prediction. The model is validated on heterogeneous real-world datasets from China, Singapore, and Italy and is further evaluated for occupant-centric HVAC control using EnergyPlus.
+
+👉 [Code and implementation](https://github.com/irfanqaisar92/OCCMamba)
 
 
-**Journal Papers**
+### 2. Experimental study on surveillance video-based indoor occupancy measurement for occupant-centric control
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Results in Control and Optimization, 2022</div>
-      <img src='images/baseline.png' alt="paper image" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+[**Experimental study on surveillance video-based indoor occupancy measurement for occupant-centric control**](https://doi.org/10.1016/j.buildenv.2026.115200)
 
-[**Energy baseline prediction for buildings: A review**](https://doi.org/10.1016/j.rico.2022.100129)
+**Irfan Qaisar**, Kailai Sun, Qingshan Jia, Qianchuan Zhao  
+*Building and Environment*, Volume 305, 2026, Article 115200
 
-**Irfan Qaisar**, Qianchuan Zhao  
-*Results in Control and Optimization*, Volume 7, 2022, Article 100129  
-This paper presents a comprehensive review of energy baseline prediction approaches in buildings, highlighting data-driven, physical, and hybrid modeling methods.
+This study evaluates detection-, tracking-, and reasoning-enhanced surveillance-video pipelines for indoor occupancy measurement. It integrates computer vision, large language models, and vision-language models with occupant-centric HVAC control and demonstrates the benefits of reasoning-enhanced occupancy estimation for energy-efficient building operation.
 
-  </div>
-</div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Buildings 2023</div>
-      <img src='images/buildings.png' alt="optnet paper" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[**Multi-Sensor-Based Occupancy Prediction in a Multi-Zone Office Building with Transformer**](https://doi.org/10.3390/buildings13082002)
-
-**Irfan Qaisar**, Kailai Sun, Qianchuan Zhao, Tian Xing, Hu Yan  
-*Buildings*, Volume 13, 2023, Article 2002  
-This study presents OPTnet, a Transformer-based deep learning model that uses multi-sensor data (occupancy, environmental conditions, and HVAC control) to predict room occupancy in real time. The model outperforms decision trees, LSTM, and MLP across various time horizons, offering a robust solution for occupant-centric building control.
-
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Building and Environment 2023</div>
-      <img src='images/transformer.png' alt="transformer occ paper" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[**Building occupancy number prediction: A Transformer approach**](https://doi.org/10.1016/j.buildenv.2023.110807)
-
-Kailai Sun, **Irfan Qaisar**, Muhammad Arslan Khan, Tian Xing, Qianchuan Zhao  
-*Building and Environment*, Volume 244, 2023, 110807  
-This paper proposes a Transformer-based deep learning model for multi-zone building occupancy number prediction using real-world multi-sensor data. It outperforms traditional ML methods (RF, DT, XGBoost, LSTM) and provides valuable insights for developing occupant-centric control strategies for energy-efficient buildings.
-
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Building and Environment 2025</div>
-      <img src='images/occ.png' alt="OCC experiment" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[**An experimental comparative study of energy saving based on occupancy-centric control in smart buildings**](https://doi.org/10.1016/j.buildenv.2024.112322)
-
-**Irfan Qaisar**, Wei Liang, Kailai Sun, Tian Xing, Qianchuan Zhao  
-*Building and Environment*, Volume 268, 2025, Article 112322  
-This study investigates the real-world performance of occupancy-centric HVAC control in a multi-zone smart building. By leveraging real-time camera-based occupancy data and simulating control strategies with various update intervals (5–60 minutes) using EnergyPlus and OpenStudio, the study demonstrates significant energy savings and improved thermal comfort. The work provides valuable insight into optimizing operational schedules and integrating OCC systems into real buildings.  
-👉 [Dataset link](https://github.com/irfanqaisar92/OCC-in-Buildings)
-
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Building and Environment 2026</div>
-      <img src='images/MethodBAE.jpg' alt="LLM for Occupancy measurement" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+### 3. Exploring large language models for indoor occupancy measurement in smart office buildings
 
 [**Exploring large language models for indoor occupancy measurement in smart office buildings**](https://doi.org/10.1016/j.buildenv.2025.113860)
 
 **Irfan Qaisar**, Kailai Sun, Qianchuan Zhao  
-*Building and Environment*, Volume 287, 2026, Article 113860  
-This study introduces an LLM-based framework for real-time indoor occupancy measurement using few-shot, chain-of-thought, and in-context learning, enabling accurate and data-efficient occupant-centric control. Experimental results from two real-world office datasets show that LLMs, particularly DeepSeek-R1 and Gemini-Pro, outperform traditional models in both binary detection and multi-level estimation while enhancing energy efficiency and comfort in EnergyPlus simulations.  
-👉 [Dataset link](https://github.com/kailaisun/LLM-occupancy)
+*Building and Environment*, Volume 287, 2026, Article 113860
 
-  </div>
-</div>
+This study presents an LLM-based framework for real-time indoor occupancy measurement using few-shot learning, chain-of-thought reasoning, and in-context learning. The framework is evaluated on real-world office datasets from China and Singapore and is further connected with occupant-centric control simulations.
 
-<!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+👉 [Code and implementation](https://github.com/kailaisun/LLM-occupancy)
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">CEAI 2020</div>
-      <img src='images/exponential.png' alt="OCC experiment" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
 
-[**Event-triggered H∞ consensus control for multi-agent systems under time-varying delay**](#)
+### 4. An experimental comparative study of energy saving based on occupancy-centric control in smart buildings
 
-**Irfan Qaisar**, Muhammad Shamrooz Aslam, Chuan Zhou  
-*Control Engineering and Applied Informatics*, Vol. 22, No. 3, 2020, pp. 25–32  
+[**An experimental comparative study of energy saving based on occupancy-centric control in smart buildings**](https://doi.org/10.1016/j.buildenv.2024.112322)
 
-This paper presents an event-triggered control strategy for multi-agent systems with directed communication topologies and time-varying delays. A new Lyapunov-based approach with linear matrix inequalities (LMIs) ensures H∞ consensus performance while reducing communication load. Simulation results confirm the effectiveness of the proposed method in achieving stability and reducing data transmissions.
+**Irfan Qaisar**, Wei Liang, Kailai Sun, Tian Xing, Qianchuan Zhao  
+*Building and Environment*, Volume 268, 2025, Article 112322
 
-  </div>
-</div>
+This study investigates occupancy-centric HVAC control in a multi-zone smart building using real-world occupancy data and OpenStudio-EnergyPlus simulations. It evaluates multiple operational intervals to study their effects on energy efficiency and occupant comfort.
 
-  <div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Asian Journal of Control 2022</div>
-      <img src='images/fuzzy.png' alt="fuzzy control" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+👉 [Dataset and implementation](https://github.com/irfanqaisar92/OCC-in-Buildings)
 
-[**Adaptive event-triggered robust H∞ control for Takagi–Sugeno fuzzy networked Markov jump systems with time-varying delay**](https://doi.org/10.1002/asjc.2762)
 
-Muhammad Shamrooz Aslam, **Irfan Qaisar**, Abdul Majid, Summera Shamrooz  
-*Asian Journal of Control*, 2022, Volume 25, Issue 1, pp. 213–228  
-This paper proposes an adaptive event-triggered robust H∞ controller for Takagi–Sugeno fuzzy Markov jump systems with time-varying delays. A novel stochastic Lyapunov–Krasovskii functional and a delay decomposition method are introduced to improve control performance while reducing communication costs. A truck-trailer application validates the proposed design.
+### 5. Dynamic Occupancy Measurement for Smart Buildings: A Few-shot Large Language Model Approach
 
-  </div>
-</div>
+[**Dynamic Occupancy Measurement for Smart Buildings: A Few-shot Large Language Model Approach**](https://ieeexplore.ieee.org/abstract/document/11163957)
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">NAHS 2020</div>
-      <img src='images/quantized.png' alt="quantized fuzzy system" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+**Irfan Qaisar**, Kailai Sun, Qianchuan Zhao  
+*2025 IEEE 21st International Conference on Automation Science and Engineering (CASE)*, Los Angeles, USA, 2025
 
-[**Quantized event-triggered feedback control under fuzzy systems with time-varying delay and actuator fault**](https://doi.org/10.1016/j.nahs.2019.100823)
+This conference paper presents an LLM-based framework for indoor occupancy detection and estimation using few-shot and in-context learning. The study compares LLMs with conventional machine-learning models using real-world datasets and evaluates the potential of LLM-based occupancy information for energy-efficient building control.
 
-Muhammad Shamrooz Aslam, **Irfan Qaisar**, Muhammad Ahsan Saleem  
-*Nonlinear Analysis: Hybrid Systems*, Volume 35, 2020, 100823  
-This work proposes a robust H∞ controller for Takagi–Sugeno fuzzy networked control systems with actuator faults and time-varying delays. A co-designed quantization and event-triggered mechanism significantly reduces communication load while ensuring system stability. Simulation on a truck-trailer system validates the approach.
 
-  </div>
-</div>
+### 6. Building occupancy number prediction: A Transformer approach
 
-**Conference Papers**
+[**Building occupancy number prediction: A Transformer approach**](https://doi.org/10.1016/j.buildenv.2023.110807)
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">CASE 2025</div>
-      <img src='images/Methodcp.jpg' alt="multi-agent" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+Kailai Sun, **Irfan Qaisar**, Muhammad Arslan Khan, Tian Xing, Qianchuan Zhao  
+*Building and Environment*, Volume 244, 2023, Article 110807
 
-***[Dynamic Occupancy Measurement for Smart Buildings: A Few-shot Large Language Model Approach](https://ieeexplore.ieee.org/abstract/document/11163957)**  
-*Irfan Qaisar, Kailai Sun, Qianchuan Zhao*  
-*2025 IEEE CASE, Los Angeles, USA*  
+This study develops a Transformer-based approach for multi-zone building occupancy number prediction using real-world multi-sensor data. The model is compared with conventional machine-learning and deep-learning baselines and demonstrates strong predictive performance.
 
-This paper presents an LLM-based framework for occupancy detection and estimation in smart buildings. Leveraging few-shot and in-context learning, LLMs (LLaMA 3.2, Gemini-Pro, DeepSeek-R1) outperform traditional models, achieving up to 95.8% accuracy.
-  
-  </div>
-</div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">CCDC 2019</div>
-      <img src='images/ccdc.png' alt="multi-agent" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+### 7. Multi-Sensor-Based Occupancy Prediction in a Multi-Zone Office Building with Transformer
 
-[**Exponential Stability for Event-triggered Consensus Control of Heterogeneous Multi-Agent Systems**](#)  
-**Irfan Qaisar**, Chuan Zhou, Zhengqing Shi, Wei Xu, Peng Xu  
-*31st Chinese Control and Decision Conference (CCDC), 2019*  
+[**Multi-Sensor-Based Occupancy Prediction in a Multi-Zone Office Building with Transformer**](https://doi.org/10.3390/buildings13082002)
 
-This paper addresses the consensus control problem for heterogeneous multi-agent systems using dual event-triggered schemes. It proposes a novel exponential stability criterion based on Lyapunov methods and linear matrix inequalities (LMIs). Simulation results validate the effectiveness of the proposed approach in reducing communication overhead while maintaining stability.
-  
-  </div>
-</div>
+**Irfan Qaisar**, Kailai Sun, Qianchuan Zhao, Tian Xing, Hu Yan  
+*Buildings*, Volume 13, 2023, Article 2002
 
-## 📝 Reviewer
+This study introduces a Transformer-based occupancy prediction network using multi-sensor information, including occupancy, indoor environmental conditions, and HVAC operation. The model is evaluated across multiple prediction horizons and compared with conventional machine-learning and deep-learning approaches.
 
-**Journals Reviewed:**   
+
+### 8. Energy baseline prediction for buildings: A review
+
+[**Energy baseline prediction for buildings: A review**](https://doi.org/10.1016/j.rico.2022.100129)
+
+**Irfan Qaisar**, Qianchuan Zhao  
+*Results in Control and Optimization*, Volume 7, 2022, Article 100129
+
+This review summarizes physics-based, data-driven, and hybrid approaches for building energy baseline prediction. It discusses model development, important input variables, performance evaluation, and the role of energy baselines in estimating building energy savings.
+
+
+**For the complete publication list and citation information, please visit my [Google Scholar](https://scholar.google.com/citations?user=KNz5cz4AAAAJ&hl=en) profile.**
+
+
+## Manuscripts Under Review
+
+### Hierarchical Control Framework Integrating Large Language Models with Reinforcement Learning for Decarbonized HVAC Operation
+
+Dianyu Zhong, Tian Xing, Kailai Sun, Xu Yang, Heye Huang, **Irfan Qaisar**, Tinggang Jia, Shaobo Wang, Qianchuan Zhao  
+*Under Review*
+
+This work develops a hierarchical HVAC control framework in which a fine-tuned large language model generates state-dependent feasible action masks and a reinforcement-learning controller performs constrained optimization within the reduced action space.
+
+
+### Closed-Loop Agentic LLMs for Occupant-Centric HVAC Supervisory Control in Smart Buildings
+
+**Irfan Qaisar**, Kailai Sun, Qianchuan Zhao  
+*Under Review*
+
+This study develops an evaluator-guided agentic LLM framework for closed-loop occupant-centric HVAC supervisory control. The system combines LLM-generated zone-level actions, evaluator-based refinement, deterministic validation, and EnergyPlus-based closed-loop simulation.
+
+
+### Additional manuscript on multi-agent LLM-guided occupant-centric HVAC control
+
+*Under double-blind review*
+
+This manuscript investigates a multi-agent LLM-guided model predictive control framework for occupant-centric HVAC systems. The manuscript title, authorship, and venue are omitted here while the anonymous review process is active.
+
+
+# 📝 Academic Service
+
+## Peer Reviewer
+
+- *Applied Energy*
+- *Automation in Construction*
 - *Building and Environment*
-- *Energy & Buildings* 
-- *Sustainable and Clean Buildings*  
-- *Scientific Data*
+- *Energy and Buildings*
+- *Engineering Applications of Artificial Intelligence*
+- *Expert Systems with Applications*
+- *ISA Transactions*
+- *Journal of Building Engineering*
+- *MethodsX*
 - *Results in Control and Optimization*
 
+
 # 🎖 Honors and Awards
-- *2025.10* Awarded the **Tsinghua University Comprehensive Excellence Scholarship (Second Class)** for outstanding academic performance and moral conduct.
-- *2024.12* Awarded the **Tsinghua University Comprehensive Excellence Scholarship (Second Class)** for outstanding academic performance and moral conduct.   
-- *2024.12* Designated as a **Tsinghua-Nike Sustainability Ambassador** after completing the Tsinghua-Nike Sustainability Fellowship, in recognition of contributions to sustainable development.
-- *2024.12* Received the **Logic Star Award** in the **ESG Innovation Case Analysis Roadshow** for outstanding logical clarity and structured argumentation in presenting an ESG case.
-- *2021.09 – Present* Awarded the **Chinese Government Scholarship** — a fully-funded scholarship for Ph.D. studies at Tsinghua University.  
-- *2016.09 – 2019.04* Awarded the **Nanjing Municipal Government Scholarship** — a fully-funded scholarship for postgraduate studies at Nanjing University of Science and Technology.  
-- *2021.07* Recognized as part of the **Technical Innovation Team** for *Hack 11: "How AI Can Help Us Build an Intelligent and Sustainable Future?"* during the **Tsinghua Global Summer School 2021 (SDG Hack)**. Contributed to the project *"AI to Track Down and Delete Illegal Contents on the Internet."*
+
+- *2026* Awarded the **Belt and Road Ambassador Scholarship** by the Overseas Chinese Charity Foundation of China.
+- *2026, 2025, 2024* Awarded the **Tsinghua University Comprehensive Excellence Scholarship (Second Class)**.
+- *2024* Designated as a **Tsinghua-Nike Sustainability Ambassador** after completing the Tsinghua-Nike Sustainability Fellowship.
+- *2024* Received the **Logic Star Award** in the **ESG Innovation Case Analysis Roadshow**.
+- *2021.09 – 2026.10* Awarded the **Chinese Government Scholarship**, a fully funded scholarship for Ph.D. studies at Tsinghua University.
+- *2016.09 – 2019.04* Awarded the **Nanjing Municipal Government Scholarship**, a fully funded scholarship for postgraduate studies at Nanjing University of Science and Technology.
+- *2021.07* Recognized as part of the **Technical Innovation Team** for *Hack 11: “How AI Can Help Us Build an Intelligent and Sustainable Future?”* during the **Tsinghua Global Summer School 2021 (SDG Hack)**.
+
 
 # 📖 Education
-- *2021.09 – Present*  
+
+- *2021.09 – 2026.10*  
   **Ph.D. in Control Science & Engineering**  
   Tsinghua University （清华大学）, Beijing, China  
+  **Supervisor:** Prof. Qianchuan Zhao  
+  **Dissertation:** *Multi-Sensor Occupancy Sensing for Occupant-Centric Control in Smart Buildings*
 
 - *2016.09 – 2019.04*  
   **M.S. in Control Theory & Control Engineering**  
-  Nanjing University of Science and Technology （南京理工大学）, Nanjing, China  
+  Nanjing University of Science and Technology （南京理工大学）, Nanjing, China
 
 - *2009.01 – 2013.05*  
   **B.E. in Electronic Engineering**  
   Dawood University of Engineering and Technology, Karachi, Pakistan
 
-# 💼 Work Experience
 
-### Research Assistant  
+# 💼 Research and Professional Experience
+
+### Research Assistant
+
 **Center for Intelligent and Networked Systems (CFINS), Department of Automation, Tsinghua University** — *Beijing, China*  
-*09/2021 – Present*  
-- Conducting research on occupant-centric control strategies for smart buildings using machine learning and real-time sensor data.  
-- Developing predictive models using Transformers and LLMs for energy-efficient HVAC control.  
-- Collaborating on interdisciplinary projects related to building automation, sustainability, and AI applications.  
-- Assisting with data analysis, academic writing, and publication preparation under the supervision of Prof. Qianchuan Zhao.
+*09/2021 – 09/2026*
 
----
-### Electrical Engineer  
+- Conducted research on artificial intelligence for smart and sustainable buildings, with a focus on occupancy sensing, prediction, occupant-centric control, and building energy management.
+- Developed Transformer-, Mamba-, LLM-, and agentic-AI-based methods for occupancy modeling and intelligent HVAC control.
+- Integrated real-world sensor and video data with EnergyPlus and OpenStudio for closed-loop building-control and energy-performance evaluation.
+- Investigated computer-vision and vision-language-model pipelines for surveillance-video-based indoor occupancy measurement.
+- Contributed to research on large language models, multimodal AI, reinforcement learning, and model predictive control for smart-building applications.
+- Conducted data analysis, experimental validation, academic writing, and collaborative research under the supervision of Prof. Qianchuan Zhao.
+
+
+### Electrical Engineer
+
 **Wuxi Johnnywell Railway Equipment Technology Co., Ltd.** — *Wuxi, China*  
-*06/2019 – 07/2021*  
-- Programmed and commissioned PLCs, HMIs, VFDs, and industrial automation devices (e.g., sensors and actuators).  
-- Diagnosed and troubleshot PLC systems and process instruments.  
-- Collaborated across departments to identify workflow automation opportunities.  
-- Gathered requirements from clients and end-users to design optimal automation solutions.
+*06/2019 – 07/2021*
 
----
+- Programmed and commissioned PLCs, HMIs, VFDs, sensors, actuators, and industrial automation systems.
+- Diagnosed and troubleshot PLC systems, electrical control systems, and process instruments.
+- Collaborated across departments to identify workflow and automation opportunities.
+- Gathered technical requirements from clients and end users to support automation-system design and implementation.
 
-### Management Trainee  
+
+### Management Trainee
+
 **Design Line Architects** — *Multan, Pakistan*  
-*06/2014 – 06/2016*  
-- Managed responsibilities in both IT and project management departments.  
-- Supported administrative and operational functions to improve efficiency.
+*06/2014 – 06/2016*
 
----
+- Supported IT, project management, administrative, and operational activities.
+- Assisted with process coordination and workflow improvement.
 
-### Trainee Engineer  
+
+### Trainee Engineer
+
 **Niagara Textile (Pvt) Ltd.** — *Pakistan*  
-*05/2013 – 05/2014*  
-- Repaired and maintained electronic control cards.  
-- Designed and troubleshot electrical panels for manufacturing processes.
+*05/2013 – 05/2014*
+
+- Repaired and maintained electronic control cards.
+- Designed, assembled, and troubleshot electrical panels for manufacturing processes.
+
+
+# 📜 Patent
+
+**Waste Heat Recovery Optimization Control System and Method**  
+Chinese Patent Application **CN 2024105441305**, filed April 30, 2024.  
+Co-inventor with Tsinghua University and Hitachi Ltd.
+
 
 # 📞 Contact
+
 E-mail:  
-<a href="irfan21@mails.tsinghua.edu.cn">irfan21@mails.tsinghua.edu.cn</a>  
-<a href="irfan21@ieee.org">irfan21@ieee.org</a>  
+<a href="mailto:irfanqaisar92@gmail.com">irfanqaisar92@gmail.com</a>  
+<a href="mailto:irfan21@ieee.org">irfan21@ieee.org</a>  
+<a href="mailto:irfan21@mails.tsinghua.edu.cn">irfan21@mails.tsinghua.edu.cn</a>
 
-<!--# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
+Google Scholar:  
+<a href="https://scholar.google.com/citations?user=KNz5cz4AAAAJ&hl=en">Irfan Qaisar</a>
 
-<!--# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
+ORCID:  
+<a href="https://orcid.org/0000-0002-4831-977X">0000-0002-4831-977X</a>
+
+GitHub:  
+<a href="https://github.com/irfanqaisar92">irfanqaisar92</a>
+
+LinkedIn:  
+<a href="https://www.linkedin.com/in/irfan-qaisar-a87951371/">Irfan Qaisar</a>
